@@ -1,6 +1,6 @@
-# This tutorial will guide you through opening up the files from your Pi so you can easily write code from your laptop as oppose to trying to edit code via the terminal.
+# Editing Files on the Pi Remotely from your laptop using Atom text editor
 
- You can also use SSH pr VNC but once you want to edit or write large chunks of code I suggest giving this a try!
+This tutorial will guide you through opening up the files from your Pi so you can easily write code from your laptop as oppose to trying to edit code via the terminal.You can also use SSH pr VNC but once you want to edit or write large chunks of code I suggest giving this a try!
  The  steps  are based on this write up:
 
 
@@ -32,10 +32,10 @@ explanation:
 
 8. Now if you navigate back to the Mount folder you will see it will have little people on it as well as an arrow next to it which means the raspberry Pi Files are accessible to us!
 
-9. Next on your laptop open up Atom ( the program we downloaded in step 1) then select File —> Open, then navigate to your Mount folder and select open !
+9. Next on your laptop open up Atom -the program we downloaded in step 1- then select File —> Open, then navigate to your Mount folder and select open !
 
 10.You will now see all the folder’s on from your Pi’s Brain available to edit !
 
-11. You can now view and edit all your Python scripts etc from the Atom Editor! The code here is from a tutorial I followed from Tony D’s Desk from Adafruit who showed how to turn an LED on or OFF via a web browser here is [the tutorial ](https://www.youtube.com/watch?v=L55QYFnnrgo)
+11. You can now view and edit all your Python scripts etc from the Atom Editor!
 
-12. When you are done editing files (make sure you save your code) simply go back to the Mount Folder and click the black arrow. The little people will go away and the folder will turn blue. Close Atom and turn off your Pi
+13. When you are done editing files (make sure you save your code) simply go back to the Mount Folder and click the black arrow. The little people will go away and the folder will turn blue. Close Atom and turn off your Pi
